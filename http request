@@ -1,0 +1,11 @@
+Http Request:
+
+
+POST /api/v1.6/variables/577545bc762542307a8f88e9/values HTTP/1.1
+X-Auth-Token: CxZhDjXndh4p7GkM9JwIIj9c10SnxX
+Host: things.ubidots.com
+Connection: close
+Content-Type: application/json
+Content-Length: 12
+
+{"value":25}
