@@ -1,3 +1,6 @@
+// From teh site: http://forum.arduino.cc/index.php?topic=67701.15
+// Then this: http://forum.arduino.cc/index.php?topic=67701.0
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <SD.h>
